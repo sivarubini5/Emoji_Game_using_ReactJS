@@ -1,0 +1,13 @@
+/* Write your code here. */
+.cardbg {
+  /*background-color: #fbc7d4;*/
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: 10px;
+  margin: 20px;
+}
+.img {
+  height: 150px;
+  width: 150px;
+  margin: 20px;
+}

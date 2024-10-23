@@ -1,0 +1,25 @@
+/* Write your code here. */
+.navbg {
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  /*background-color: #fbc7d4;*/
+}
+.c {
+  display: flex;
+}
+p {
+  margin: 10px;
+  color: white;
+  font-size: 40px;
+}
+h1 {
+  margin: 10px;
+  margin-bottom: 5px;
+  padding-bottom: 5px;
+  color: white;
+}
+img {
+  height: 50px;
+  width: 50px;
+}

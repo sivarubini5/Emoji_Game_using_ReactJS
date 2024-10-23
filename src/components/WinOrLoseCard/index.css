@@ -1,0 +1,29 @@
+/* Write your code here. */
+.fbg {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.in {
+  display: flex;
+}
+.wimg {
+  height: 20vh;
+  width: 20vw;
+}
+.p {
+  color: white;
+}
+.m {
+  color: #6a59ff;
+  font-size: 50px;
+}
+.button{
+  color: black;
+  background-color:  #ffce27;
+  border-color:  #ffce27;
+  border-radius: 10px;
+  height: 50px;
+  width: 200px;
+}
